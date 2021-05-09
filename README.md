@@ -8,3 +8,16 @@
 - ### [2FAQRAuth](https://github.com/jc4st3lls/2FAQRAuth): Autenticació de doble factor amb codi QR.
 - ### [Inject](https://github.com/jc4st3lls/Inject): Injecció de codi en un procés windows.
 - ### [Diffie-Hellman + AES for exchange secrets](https://github.com/jc4st3lls/DH): Xifrar fitxers amb algoritmes de xifratge simetrics, sense intercanvi de claus secretes.
+
+
+
+
+
+
+
+
+
+
+
+
+### [https://paper.li/f-1385054480#/](Zero days, security computing)
