@@ -20,4 +20,6 @@
 
 
 
-### [Zero days, security computing](https://paper.li/f-1385054480#/)
+[Zero days, security computing](https://paper.li/f-1385054480#/)
+[Hacker Noon](https://hackernoon.com/)
+[The Vuln Hub](https://www.vulnhub.com/)
