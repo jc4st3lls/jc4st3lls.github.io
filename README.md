@@ -8,7 +8,7 @@
 - ### [2FAQRAuth](https://github.com/jc4st3lls/2FAQRAuth): Autenticació de doble factor amb codi QR.
 - ### [Inject](https://github.com/jc4st3lls/Inject): Injecció de codi en un procés windows.
 - ### [Diffie-Hellman + AES for exchange secrets](https://github.com/jc4st3lls/DH): Xifrar fitxers amb algoritmes de xifratge simetrics, sense intercanvi de claus secretes.
-- - ### [Shamir Secret Shared](https://github.com/jc4st3lls/ShamirCore): Compartir secrets de grup.
+- ### [Shamir Secret Shared](https://github.com/jc4st3lls/ShamirCore): Compartir secrets de grup, en grup.
 
 
 ## Read
