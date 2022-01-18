@@ -10,6 +10,9 @@
 - ### [Diffie-Hellman + AES for exchange secrets](https://github.com/jc4st3lls/DH): Xifrar fitxers amb algoritmes de xifratge simetrics, sense intercanvi de claus secretes.
 - ### [Shamir Secret Shared](https://github.com/jc4st3lls/ShamirCore): Compartir secrets de grup, en grup.
 
+## Papers
+
+- ### [Deploy Kubernetes HA Cluster](https://): Desplegament d'un clúster de Kubernetes amb alta disponibilitat.
 
 ## Read
 
