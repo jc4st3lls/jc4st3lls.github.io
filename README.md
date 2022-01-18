@@ -12,7 +12,7 @@
 
 ## Papers
 
-- ### [Deploy Kubernetes HA Cluster](https://): Desplegament d'un clúster de Kubernetes amb alta disponibilitat.
+- ### [Deploy Kubernetes HA Cluster](https://jc4st3lls.github.io/jc4st3llsHAK8s.pdf): Desplegament d'un clúster de Kubernetes amb alta disponibilitat.
 
 ## Read
 
