@@ -9,7 +9,7 @@
 - ### [Inject](https://github.com/jc4st3lls/Inject): Injecció de codi en un procés windows.
 - ### [Diffie-Hellman + AES for exchange secrets](https://github.com/jc4st3lls/DH): Xifrar fitxers amb algoritmes de xifratge simetrics, sense intercanvi de claus secretes.
 - ### [Shamir Secret Shared](https://github.com/jc4st3lls/ShamirCore): Compartir secrets de grup, en grup.
-
+- ### [PlannerWithPoints](https://github.com/jc4st3lls/plannerwithpoints): Geometria aplicada a agendes.
 ## Papers
 
 - ### [Deploy Kubernetes HA Cluster](https://jc4st3lls.github.io/jc4st3llsHAK8s.pdf): Desplegament d'un clúster de Kubernetes amb alta disponibilitat.
