@@ -10,6 +10,7 @@
 - ### [Diffie-Hellman + AES for exchange secrets](https://github.com/jc4st3lls/DH): Xifrar fitxers amb algoritmes de xifratge simetrics, sense intercanvi de claus secretes.
 - ### [Shamir Secret Shared](https://github.com/jc4st3lls/ShamirCore): Compartir secrets de grup, en grup.
 - ### [PlannerWithPoints](https://github.com/jc4st3lls/plannerwithpoints): Geometria aplicada a agendes.
+
 ## Papers
 
 - ### [Deploy Kubernetes HA Cluster](https://jc4st3lls.github.io/jc4st3llsHAK8s.pdf): Desplegament d'un clúster de Kubernetes amb alta disponibilitat.
@@ -18,5 +19,6 @@
 ## Read
 
 - [Zero days, security computing](https://paper.li/f-1385054480#/)
+- [HackTheBox](https://www.hackthebox.com)
 - [Hacker Noon](https://hackernoon.com/)
 - [The Vuln Hub](https://www.vulnhub.com/)
