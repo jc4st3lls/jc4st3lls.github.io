@@ -13,6 +13,7 @@
 ## Papers
 
 - ### [Deploy Kubernetes HA Cluster](https://jc4st3lls.github.io/jc4st3llsHAK8s.pdf): Desplegament d'un clúster de Kubernetes amb alta disponibilitat.
+- ### [Integer Overflow & Carry Bit](https://jc4st3lls.github.io/jc4st3llsIntOverflow.pdf): Són segurs i fiables els algoritmes?
 
 ## Read
 
