@@ -10,6 +10,7 @@
 - ### [Diffie-Hellman + AES for exchange secrets](https://github.com/jc4st3lls/DH): Xifrar fitxers amb algoritmes de xifratge simetrics, sense intercanvi de claus secretes.
 - ### [Shamir Secret Shared](https://github.com/jc4st3lls/ShamirCore): Compartir secrets de grup, en grup.
 - ### [PlannerWithPoints](https://github.com/jc4st3lls/plannerwithpoints): Geometria aplicada a agendes.
+- ### [Neural Logic Gates](https://github.com/jc4st3lls/NeuralLogicGates): Neurones, portes lògiques i xips neuromòrfics.
 
 ## Papers
 
