@@ -21,7 +21,6 @@
 
 ## Read
 
-- [Zero days, security computing](https://paper.li/f-1385054480#/)
 - [HackTheBox](https://www.hackthebox.com)
 - [Hacker Noon](https://hackernoon.com/)
 - [The Vuln Hub](https://www.vulnhub.com/)
