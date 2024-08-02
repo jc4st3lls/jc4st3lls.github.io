@@ -13,10 +13,11 @@
 - ### [PlannerWithPoints](https://github.com/jc4st3lls/plannerwithpoints): Geometria aplicada a agendes.
 - ### [Neural Logic Gates](https://github.com/jc4st3lls/NeuralLogicGates): Neurones, portes lògiques i xips neuromòrfics.
 - ### [Rust Reverse Shell for Windows](https://github.com/jc4st3lls/rrshw): Implementació d'una shell invertida en Rust per Windows.
+- ### [Skanner](https://github.com/jc4st3lls/skanner): Petit escaner de ports i protocols (SSL/TLS) i algunes cosetes més, implementat en Rust.
 
 ## Papers
 
-- ### [Deploy Kubernetes HA Cluster](https://jc4st3lls.github.io/jc4st3llsHAK8s.pdf): Desplegament d'un clúster de Kubernetes amb alta disponibilitat.
+- ### [Deploy Kubernetes HA Cluster](https://jc4st3lls.github.io/jc4st3llsHAK8s.pdf): Desplegament d'un clúster de Kubernetes amb alta disponibilitat (obsolet).
 - ### [Integer Overflow & Carry Bit](https://jc4st3lls.github.io/jc4st3llsIntOverflow.pdf): Són segurs i fiables els algoritmes?
 
 ## Read
