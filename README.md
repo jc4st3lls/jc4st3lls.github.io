@@ -13,6 +13,7 @@
 - ### [PlannerWithPoints](https://github.com/jc4st3lls/plannerwithpoints): Geometria aplicada a agendes.
 - ### [Neural Logic Gates](https://github.com/jc4st3lls/NeuralLogicGates): Neurones, portes lògiques i xips neuromòrfics.
 - ### [Rust Reverse Shell for Windows](https://github.com/jc4st3lls/rrshw): Implementació d'una shell invertida en Rust per Windows.
+- ### [Rust Reverse Shell for Linux or Mac](https://github.com/jc4st3lls/rrshx): Implementació d'una shell invertida en Rust per Linux o Mac.
 - ### [Skanner](https://github.com/jc4st3lls/skanner): Petit escaner de ports i protocols (SSL/TLS) i algunes cosetes més, implementat en Rust.
 
 ## Papers
